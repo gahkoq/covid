@@ -1,6 +1,6 @@
 # Corona_data
 
-[구경하기](https://chkim116.github.io/corona_data/)
+[구경하기](https://gahkoq.github.io/corona_data/)
 
 ## Reason
 
